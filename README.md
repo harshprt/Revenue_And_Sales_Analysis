@@ -79,31 +79,6 @@ Ensure the following are installed on your system:
 - PostgreSQL
 - Jupyter Notebook
 
-### Steps to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/danielsklar/Sales_Analysis_Project.git
-   cd Sales_Analysis_Project
-   ```
-
-2. **Install Python dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up the PostgreSQL database**:
-   - Import the raw data files (`raw_data_file1.csv` and `raw_data_file2.csv`) into PostgreSQL.
-   - Execute the SQL queries in `sales_analysis_queries.sql` to process the data.
-
-4. **Run the analysis**:
-   - Open `Sales_Analysis.ipynb` in Jupyter Notebook or execute `Sales_Analysis.py`:
-     ```bash
-     python scripts/Sales_Analysis.py
-     ```
-
-5. **View Visualizations**:
-   - Visualizations are saved in the `visualizations/` folder.
-
 ---
 
 ## 📊 Key Files
