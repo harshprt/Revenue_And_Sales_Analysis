@@ -1,0 +1,6 @@
+Order_ID,Customer_Name,Product,Quantity,Price_Per_Unit,Order_Date,Region
+1001,Alice Johnson,Laptop,1,1200,01/12/2024,North
+1002,Bob Smith,Smartphone,2,800,05/12/2024,East
+1003,Charlie Lee,Tablet,1,300,07/12/2024,West
+1004,Diana White,Laptop,1,1200,12/12/2024,North
+1005,Evan Green,Smartwatch,3,250,15/12/2024,South
