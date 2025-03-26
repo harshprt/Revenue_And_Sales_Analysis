@@ -117,8 +117,3 @@ Ensure the following are installed on your system:
 | `docs/Sales_Analysis_Project_Report.docx` | Detailed project report.                     |
 
 ---
-
-## 📬 Contact
-Feel free to reach out for any questions or collaboration opportunities:
-- **Email**: daniel.sklar1@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/daniel-sklar1
